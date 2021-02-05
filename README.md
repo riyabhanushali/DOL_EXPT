@@ -1,2 +1,1 @@
-# DOL_EXPT
-Repository for expts 
+# Educature_IP
